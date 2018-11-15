@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [MainPage.xaml](./CS/PushpinAnimation/MainPage.xaml) (VB: [MainPage.xaml](./VB/PushpinAnimation/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/PushpinAnimation/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/PushpinAnimation/MainPage.xaml))
+<!-- default file list end -->
 # How to animate a map pushpin
 
 
