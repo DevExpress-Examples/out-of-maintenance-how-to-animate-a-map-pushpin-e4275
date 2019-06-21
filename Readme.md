@@ -5,6 +5,9 @@
 * [MainPage.xaml.cs](./CS/PushpinAnimation/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/PushpinAnimation/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to animate a map pushpin
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4275)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to provide animation for a map pushpin.<br />
